@@ -1,3 +1,12 @@
+import time
+
+print("DevOps Lessons")
+
+print("Jenkins Git Integration")
+
+time.sleep(3)
+
+'''
 import random
 
 comp_guess = random.randint(1, 101)
@@ -31,4 +40,5 @@ while right_guess == 0:
         else:
             for x in range(0, 10):
                 if user_guess == x:
-                    print("Pretty close")
+                    print("Pretty close")'
+'''
